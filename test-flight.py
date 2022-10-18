@@ -27,5 +27,5 @@ tello.move_forward(150)
 tello.rotate_counter_clockwise(180)
 tello.move_down(150)
 
-# End by landing the drone. This also ends the process.
+# End by landing the drone. This also ends the connection.
 tello.land()
